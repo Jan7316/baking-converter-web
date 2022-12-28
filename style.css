@@ -1,0 +1,24 @@
+* {
+    font-family: 'Bellota Text';
+}
+
+body {
+    text-align: center;
+    background-color: #d0eaff;
+}
+
+h1 {
+    font-family: 'Bellota';
+}
+
+h2 {
+    font-size: 16pt;
+}
+
+::selection {
+    background: yellow;
+}
+
+.answer {
+    font-size: 14pt;
+}
